@@ -1,5 +1,3 @@
-![Banner](https://krishanchawla.com/banner.png)  
-
 # 👋 Hi, I'm Krishan Chawla
 
 🚀 **Technical Lead | Automation Enthusiast | Software Engineer**
