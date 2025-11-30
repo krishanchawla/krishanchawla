@@ -392,25 +392,15 @@ Key Achievements:
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="50%" align="center">
   <h2>💼</h2>
   <h3>9+ Years</h3>
-  <p>Telecom Experience</p>
+  <p>Telecom Domain Experience</p>
 </td>
-<td width="25%" align="center">
-  <h2>📊</h2>
-  <h3>5+ Lakh</h3>
-  <p>Monthly Processing</p>
-</td>
-<td width="25%" align="center">
-  <h2>👥</h2>
-  <h3>1000+</h3>
-  <p>Concurrent Users</p>
-</td>
-<td width="25%" align="center">
+<td width="50%" align="center">
   <h2>✅</h2>
   <h3>99.9%</h3>
-  <p>Accuracy & Uptime</p>
+  <p>System Accuracy & Uptime</p>
 </td>
 </tr>
 </table>
