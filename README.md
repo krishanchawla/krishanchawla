@@ -1,7 +1,11 @@
 <h1 align="center">👋 Hi, I'm Krishan Chawla</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Technical+Lead+%7C+Full-Stack+Developer;Automation+Enthusiast+%7C+DevOps+Engineer;9%2B+Years+in+Telecom+Domain;Building+Scalable+Solutions" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Technical+Lead+%7C+Full-Stack+Developer;Automation+Enthusiast+%7C+DevOps+Engineer;9%2B+Years+in+Telecom+Domain;Building+Scalable+Solutions">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Technical+Lead+%7C+Full-Stack+Developer;Automation+Enthusiast+%7C+DevOps+Engineer;9%2B+Years+in+Telecom+Domain;Building+Scalable+Solutions">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Technical+Lead+%7C+Full-Stack+Developer;Automation+Enthusiast+%7C+DevOps+Engineer;9%2B+Years+in+Telecom+Domain;Building+Scalable+Solutions" alt="Typing SVG" />
+  </picture>
 </p>
 
 <p align="center">
@@ -388,15 +392,25 @@ Key Achievements:
 
 <table>
 <tr>
-<td width="50%" align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/business.png" width="50"/>
+<td width="25%" align="center">
+  <h2>💼</h2>
   <h3>9+ Years</h3>
-  <p>Domain Experience</p>
+  <p>Telecom Experience</p>
 </td>
-<td width="50%" align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/accuracy.png" width="50"/>
+<td width="25%" align="center">
+  <h2>📊</h2>
+  <h3>5+ Lakh</h3>
+  <p>Monthly Processing</p>
+</td>
+<td width="25%" align="center">
+  <h2>👥</h2>
+  <h3>1000+</h3>
+  <p>Concurrent Users</p>
+</td>
+<td width="25%" align="center">
+  <h2>✅</h2>
   <h3>99.9%</h3>
-  <p>System Accuracy & Uptime</p>
+  <p>Accuracy & Uptime</p>
 </td>
 </tr>
 </table>
@@ -504,25 +518,21 @@ I'm always open to interesting conversations, collaboration opportunities, and k
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<div align="center">
 
-<h3 align="center">
-  ⚡ "Building scalable solutions, one commit at a time" ⚡
-</h3>
+### ⚡ "Building scalable solutions, one commit at a time" ⚡
 
-<p align="center">
-  <i>Thanks for visiting! Feel free to explore my work and reach out for collaborations.</i>
-</p>
+<br>
 
-<p align="center">
-  <i>💡 Most of my professional work is in private repositories and organization accounts,<br/>
-  but I'm always happy to discuss my experience and projects!</i>
-</p>
+*Thanks for visiting! Feel free to explore my work and reach out for collaborations.*
 
----
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/krishanchawla?label=Followers&style=social" alt="GitHub Followers"/>
-</p>
+💡 *Most of my professional work is in private repositories and organization accounts,
+but I'm always happy to discuss my experience and projects!*
+
+<br>
+
+![Followers](https://img.shields.io/github/followers/krishanchawla?label=Followers&style=social)
+
+</div>
